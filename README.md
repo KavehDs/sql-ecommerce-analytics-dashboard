@@ -1,5 +1,7 @@
 # SQL E-commerce Analytics Dashboard — Brazilian Olist
 
+🚀 **Live demo:** [Try the app](https://7hdfbygbq4tzibzccmp9eu.streamlit.app/)
+
 Twelve SQL questions a marketplace actually asks — answered against a
 real multi-table database, with the queries, the numbers, and a
 Streamlit dashboard that runs the SQL live.
