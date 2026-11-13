@@ -1,0 +1,7 @@
+segment,customers,pct_customers,avg_recency_days,avg_frequency,revenue_brl
+At risk,22836,24.5,411.0,1.06,6108462.39
+Champions,11962,12.8,106.0,1.07,3265559.37
+Loyal,11880,12.7,213.0,1.08,3072333.03
+Regular,23313,25.0,269.0,1.0,1488488.32
+Lost / hibernating,12078,12.9,498.0,1.0,771654.19
+New / promising,11288,12.1,104.0,1.0,715964.47

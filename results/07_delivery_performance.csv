@@ -1,0 +1,4 @@
+order_year,delivered_orders,avg_delivery_days,avg_delay_days,pct_late
+2016,267,19.7,-35.7,1.5
+2017,43426,13.0,-11.7,6.6
+2018,52777,12.1,-10.7,9.4

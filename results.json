@@ -1,0 +1,46 @@
+{
+  "dataset": {
+    "name": "Brazilian E-Commerce Public Dataset by Olist",
+    "source": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+    "license": "CC BY-NC-SA 4.0",
+    "period": "2016-09-04 to 2018-10-17",
+    "tables": {
+      "customers": 99441,
+      "orders": 99441,
+      "order_items": 112650,
+      "order_payments": 103886,
+      "order_reviews": 99224,
+      "products": 32951
+    },
+    "delivered_orders": 96478,
+    "unique_customers": 96096
+  },
+  "total_revenue_brl_delivered": 15422461.77,
+  "delivered_orders": 96478,
+  "delivered_orders_with_payment_record": 96477,
+  "aov_brl_delivered": 159.86,
+  "avg_review_score": 4.086,
+  "top_category": {
+    "name": "health_beauty",
+    "revenue_brl": 1233131.72,
+    "share_pct": 9.33
+  },
+  "top_state": {
+    "name": "SP",
+    "revenue_brl": 5770266.19
+  },
+  "top_payment_method": {
+    "name": "credit_card",
+    "share_pct": 78.46
+  },
+  "delivery": {
+    "avg_delivery_days": 14.9,
+    "avg_delay_days": -19.4,
+    "pct_late": 5.8
+  },
+  "repeat_customers_pct": 3.0,
+  "best_month": {
+    "month": "2017-11",
+    "revenue_brl": 1153528.05
+  }
+}

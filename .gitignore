@@ -1,0 +1,5 @@
+# Raw Olist CSVs (~60 MB) and the built database — download / rebuild
+# locally, never committed. See README.md.
+data/raw/
+*.db
+__pycache__/
